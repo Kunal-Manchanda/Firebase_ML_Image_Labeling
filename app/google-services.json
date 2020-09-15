@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "955400614110",
+    "firebase_url": "https://image-labeling-4eb52.firebaseio.com",
+    "project_id": "image-labeling-4eb52",
+    "storage_bucket": "image-labeling-4eb52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955400614110:android:2af94de9a4ad8a9e88124f",
+        "android_client_info": {
+          "package_name": "com.example.firebasemlimagelabeling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955400614110-3t7hr7h0lbfd9m4np39nhev9lrv5oaqi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebasemlimagelabeling",
+            "certificate_hash": "c0a8a07535ce35bd914e18ed91f0c4cd9b3aa9a2"
+          }
+        },
+        {
+          "client_id": "955400614110-pm7misfr1usfj0r8iiertku5il23ba5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKG2Kks7v-mjIEC3XFfo4zwu1MXDgAs_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955400614110-pm7misfr1usfj0r8iiertku5il23ba5d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
